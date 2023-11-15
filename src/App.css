@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+h1 {
+  margin: 50px 10px 10px 100px;
+}
+button {
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: #ddd92a;
+}
+div {
+  margin: auto;
+  font-size: 30px;
+}
+main {
+  width: 200px;
+  height: 50%;
+  background: #929342;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
